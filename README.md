@@ -1,2 +1,2 @@
 # Project-Euler
-Humm.. trying a new math problem solving website...
+i probably won't solve a lot of problems from this website..
